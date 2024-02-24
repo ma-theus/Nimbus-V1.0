@@ -1,0 +1,82 @@
+.cor-navbar {
+    background-color: black;
+}
+
+.pesquisar {
+    background-color: white;
+    border: 0px;
+    border-radius: 25%;
+}
+
+.navbar-brand {
+    margin-left: 15%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.d-flex {
+    margin: 0%;
+    padding: 0%;
+}
+
+.row1 {
+    margin-right: 15%;
+}
+
+.nov-cor {
+    background-color: black;
+}
+
+.novidade {
+    text-align: center;
+    margin: 5%;
+    font-weight: bold;
+}
+
+.preco {
+    font-weight: bold;
+}
+
+.btn {
+    background-color: black;
+    border: solid black;
+}
+
+.banner-desconto {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+}
+
+.recomendados {
+    font-weight: bold;
+    margin: 3%;
+}
+
+.produtos-recomendados {
+    margin-top: 20px;
+}
+
+.garantia {
+    margin: 60px;
+}
+
+.t-info {
+    margin: 50px;
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+
+.info {
+    color: #49494999;
+    margin: 30px;
+    margin-top: 0%;
+    margin-bottom: 100px;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 100px;
+}
